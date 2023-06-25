@@ -1,0 +1,9 @@
+111111|Andrej|Stjepanović|2211001144299|Gredice BB|066221453|anderson|andrej123|Male|Administrator|ACTIVE
+111112|Marko|Marković|2301002187771|Gredice BB|066333444|markx|marko123|Male|Administrator|ACTIVE
+111113|Svetozar|Stojkov|1901999999999|Ulica Svetozara Stojkova|066666000|piksi|piksi123|Male|Administrator|ACTIVE
+111114|New|User|0000000000000|Testing|000000000|neww|neww123|Female|Administrator|INACTIVE
+111115|Newww|User|0000000000001|Newwj|023333333|newws|neww123|Female|Administrator|INACTIVE
+111116|Androsss|Andro|0123456789999|Androo|0643213321|androoo|androoo|Female|Administrator|INACTIVE
+111117|Test|Test|0606060303032|Testing|063321129|testing_1|testing123|Female|Administrator|INACTIVE
+111118|Wqeeqw|WEIaweawe|1231413125123|Qwwwwww|063123213|aidaksd|06434234rdf|Female|Administrator|INACTIVE
+111119|USERRRRRR|USER|0101010101011|Userrrr|0123323213|Userrrrrr|userrrrrrr|Female|Administrator|INACTIVE

@@ -1,0 +1,18 @@
+444441|222221|Summer vacation|C:\\Users\\WIN\\Desktop\\IMAGES\\arrangement4.jpg|2023-05-19T09:49:53.778|2|Hotel|30.0|0.0|555551,555554,555561,555563,555567,555572,555573,555574,555578|Single_bed|ACTIVE
+444442|222221|Summer vacation|C:\\Users\\WIN\\Desktop\\IMAGES\\arrangement1.jpg|2023-05-19T09:49:59.778|2|Apartment|40.0|0.0|555555|Single_bed|ACTIVE
+444443|222221|Summer vacation|C:\\Users\\WIN\\Desktop\\IMAGES\\arrangement3.jpg|2023-05-25T09:51:30.640|2|Hotel|30.0|0.0|555552,555553,555577|Single_bed|ACTIVE
+444444|222222|Summer vacation|C:\\Users\\WIN\\Desktop\\IMAGES\\arrangement2.jpg|2023-05-27T15:42:35.624|2|Hotel|30.0|0.0|555575|Single_bed|ACTIVE
+444445|222226|Summer vacation|C:\\Users\\WIN\\Desktop\\IMAGES\\arrangement3.jpg|2023-05-31T20:13:51.723|2|Hotel|20.0|0.0|/|Single bed|INACTIVE
+444446|222227|Summer vacation|C:\\Users\\WIN\\Desktop\\IMAGES\\arrangement5.jpg|2023-05-31T20:15:34.796|2|Hotel|10.0|0.0|555558,555559|Single_bed|ACTIVE
+444447|222227|Summer vacation|C:\\Users\\WIN\\Desktop\\IMAGES\\arrangement5.jpg|2023-05-30T01:55:24.764|2|Apartment|30.0|0.0|555556,555576|Single_bed|ACTIVE
+444448|222226|Travel during the holidays|C:\\Users\\WIN\\Desktop\\IMAGES\\arrangement4.jpg|2023-05-28T01:56:02.688|2|Hotel|15.0|0.0|555557|Single_bed|ACTIVE
+444449|222221|European cities|C:\\Users\\WIN\\Desktop\\IMAGES\\arrangement5.jpg|2023-05-01T03:35:07.403|14|Hotel|20.0|0.0|555564|Single_bed|ACTIVE
+444450|222222|Summer vacation|C:\\Users\\WIN\\Desktop\\IMAGES\\arrangement2.jpg|2023-05-30T03:41:42.893|40|Hotel|40.0|0.0|555565|Single_bed|ACTIVE
+444451|222227|Summer vacation|C:\\Users\\WIN\\Desktop\\IMAGES\\arrangement2.jpg|2023-05-30T03:43:41.276|15|Hotel|30.0|0.0|555560|Single_bed|ACTIVE
+444452|222221|Summer vacation|C:\\Users\\WIN\\Desktop\\IMAGES\\arrangement5.jpg|2023-05-31T03:53:07.892|4|Hotel|10.0|0.0|555562|Single_bed|ACTIVE
+444453|222221|Wintering|C:\\Users\\WIN\\Desktop\\IMAGES\\arrangement6.jpg|2023-11-30T18:45:40.035|2|Hotel|30.0|5.0|/|Single_bed|ACTIVE
+444454|222221|Wintering|C:\\Users\\WIN\\Desktop\\IMAGES\\arrangement6.jpg|2023-12-20T18:52:03.769|2|Hotel|40.0|10.0|/|Single_bed|ACTIVE
+444455|222221|Wintering|C:\\Users\\WIN\\Desktop\\IMAGES\\arrangement6.jpg|2023-06-23T19:01:03.178|4|Hotel|50.0|10.0|555566,555568|Single_bed|ACTIVE
+444456|222221|Summer vacation|C:\\Users\\WIN\\Desktop\\IMAGES\\arrangement4.jpg|2023-05-29T19:09:18.662|1|Hotel|10.0|0.0|555569|Single_bed|ACTIVE
+444457|222221|Wintering|C:\\Users\\WIN\\Desktop\\IMAGES\\arrangement4.jpg|2023-05-31T19:13:35.515|2|Hotel|10.0|1.0|555570,555571|Single_bed|ACTIVE
+444458|222227|Travel during the holidays|C:\\Users\\WIN\\Desktop\\IMAGES\\arrangement2.jpg|2023-05-31T14:46:06.130|2|Hotel|50.0|0.0|/|Single_bed|ACTIVE

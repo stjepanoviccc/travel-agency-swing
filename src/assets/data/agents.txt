@@ -1,0 +1,7 @@
+222221|Darko|Lazić|1204098247571|Dragiše Brašovana 12|065221345|darkx|darko123|Male|Tourist agent|ACTIVE
+222222|Marija|Marković|2104005199778|Dragiše Brašovana 12|066111111|maki|marija123|Female|Tourist agent|ACTIVE
+222223|Andrew|Tate|1101024499449|Ulica Narodnog Fronta 4A|066221221|tate|tate123|Male|Tourist agent|ACTIVE
+222224|Domagoj|Manda|2210034499000|Ulica Narodnog Fronta 3A|066223321|manda|manda123|Male|Tourist agent|INACTIVE
+222225|Laura|Domić|2202010304056|Bulevar Patrijarha Pavla 8A|063333443|laura|laura123|Female|Tourist agent|INACTIVE
+222226|Marina|Kerezović|2503977755441|Ulica Svetozara Stojkova|063313331|marina|marina123|Female|Tourist agent|ACTIVE
+222227|Nenad|Zorić|1312020202023|Ulica Svetozara Stojkova|065557775|nenad|nenad123|Male|Tourist agent|ACTIVE

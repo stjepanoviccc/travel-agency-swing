@@ -1,0 +1,10 @@
+333331|Dejana|Marić|1103008888778|Dragiše Brašovana 18A|065212551|dejana|dejana123|Female|Tourist|ACTIVE
+333332|Željana|Marić|2305034151111|Dragiše Brašovana 18A|065987654|zeks|zeks123|Female|Tourist|ACTIVE
+333333|Dragan|Bijelić|1205032153232|Dragiše Brašovana 12A|065987654|gagx|gagx123|Male|Tourist|ACTIVE
+333334|Marko|Marin|2305034152244|Bulevar Evrope 4|065987654|marin|marin123|Male|Tourist|ACTIVE
+333335|Dunja|Marić|2901037892111|Bulevar Evrope 7|065987654|dunjicaaa|dunja123|Female|Tourist|ACTIVE
+333336|Savo|Palanacki|0606060302059|Ulica Svetozara Stojkova|066942113|savo|savo123|Male|Tourist|ACTIVE
+333337|Andrej|Zonlo|0666666669219|Ulica Svetozara Stojkova|063123339|zonlo|zonlo123|Male|Tourist|INACTIVE
+333338|Rex|Multirex|0669218833382|Ulica Svetozara Stojkova|068883321|rexxyy|rexxx123|Female|Tourist|INACTIVE
+333339|Danko|Palanacki|0603020103045|Ulica Svetozara Stojkova|066964443|dankecc|dankec123|Male|Tourist|ACTIVE
+333340|Mihailo|Geljic|0607070302221|Ulica Svetozara Stojkova|068887423|geljaa|gelja123|Male|Tourist|ACTIVE
